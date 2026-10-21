@@ -203,7 +203,7 @@ Keep large generated datasets, virtual environments, credentials, experiment art
 CSE Student | Machine Learning Enthusiast
 
 - GitHub: https://github.com/asraful098
-- Portfolio: [https://asraful-site.github.io/](https://asraful098.github.io/asaful-site/)
+- Portfolio: [Asraful | AI/ML Developer](https://asraful098.github.io/asaful-site/)
 - Project Repository: https://github.com/asraful098/Customer-Churn-Project
 - Live Application: https://customer-churn-project-as.streamlit.app/
 
