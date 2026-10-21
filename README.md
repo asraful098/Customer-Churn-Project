@@ -2,8 +2,8 @@
 
 A machine learning project that predicts whether a telecommunications customer is likely to leave a service. The project covers data preprocessing, exploratory data analysis (EDA), model training, hyperparameter tuning, threshold optimization, and an interactive Streamlit web application.
 
-**Live Demo:** https://customer-churn-project-as.streamlit.app  
-**GitHub Repository:** https://github.com/asraful098/Customer-Churn-Project
+**Live Demo:** [Customer-Churn-prediction-app](https://customer-churn-project-as.streamlit.app/)
+**GitHub Repository:** [Customer-Churn-Project](https://github.com/asraful098/Customer-Churn-Project)
 
 ## Project Overview
 
@@ -202,10 +202,10 @@ Keep large generated datasets, virtual environments, credentials, experiment art
 **Sheikh Md. Asraful Islam Robin**  
 CSE Student | Machine Learning Enthusiast
 
-- GitHub: https://github.com/asraful098
+- GitHub: [Asraful098](https://github.com/asraful098)
 - Portfolio: [Asraful | AI/ML Developer](https://asraful098.github.io/asaful-site/)
-- Project Repository: https://github.com/asraful098/Customer-Churn-Project
-- Live Application: https://customer-churn-project-as.streamlit.app/
+- Project Repository: [Customer-Churn-Project](https://github.com/asraful098/Customer-Churn-Project)
+- Live Application: [Customer-Churn-prediction-app](https://customer-churn-project-as.streamlit.app/)
 
 ## License
 
