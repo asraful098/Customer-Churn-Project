@@ -2,7 +2,7 @@
 
 A machine learning project that predicts whether a telecommunications customer is likely to leave a service. The project covers data preprocessing, exploratory data analysis (EDA), model training, hyperparameter tuning, threshold optimization, and an interactive Streamlit web application.
 
-**Live Demo:** https://customer-churn-project-as.streamlit.app/  
+**Live Demo:** https://customer-churn-project-as.streamlit.app  
 **GitHub Repository:** https://github.com/asraful098/Customer-Churn-Project
 
 ## Project Overview
