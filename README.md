@@ -136,10 +136,10 @@ Activate it on Windows:
 
 ### 3. Install dependencies
 
-If the repository contains `requirements.txt`, run:
+If the repository contains `requirements-project.txt`, run:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements-project.txt
 ```
 
 If it does not, install the project's required packages according to the imports and dependency versions used by the code.
